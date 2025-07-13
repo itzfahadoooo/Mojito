@@ -2,7 +2,7 @@ import React from 'react'
 
 const Cocktails = () => {
   return (
-    <div>Cocktails</div>
+    <section id='cocktails'>Cocktails</section>
   )
 }
 
