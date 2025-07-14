@@ -53,7 +53,6 @@ const Cocktails = () => {
 			 <li key={name}>
 				<div className="me-28">
 				 <h3>{name}</h3>
-
 				 <p>{country} | {detail}</p>
 				</div>
 				<span>- {price}</span>
