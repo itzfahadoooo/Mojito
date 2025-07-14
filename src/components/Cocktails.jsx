@@ -55,7 +55,6 @@ const Cocktails = () => {
 				 <h3>{name}</h3>
 
 				 <p>{country} | {detail}</p>
-				 
 				</div>
 				<span>- {price}</span>
 			 </li>
