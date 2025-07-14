@@ -48,6 +48,7 @@ const Cocktails = () => {
 		 <h2>Most loved mocktails:</h2>
 		 
 		 <ul>
+			
 			{mockTailLists.map(({ name, country, detail, price }) => (
 			 <li key={name}>
 				<div className="me-28">
