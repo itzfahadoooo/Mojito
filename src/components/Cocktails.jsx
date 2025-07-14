@@ -48,11 +48,12 @@ const Cocktails = () => {
 		 <h2>Most loved mocktails:</h2>
 		 
 		 <ul>
-			
+
 			{mockTailLists.map(({ name, country, detail, price }) => (
 			 <li key={name}>
 				<div className="me-28">
 				 <h3>{name}</h3>
+				 
 				 <p>{country} | {detail}</p>
 				</div>
 				<span>- {price}</span>
