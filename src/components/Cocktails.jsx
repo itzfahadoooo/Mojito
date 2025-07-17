@@ -15,6 +15,7 @@ const Cocktails = () => {
 
         scrub: true,
         
+        
 
       },
     });
