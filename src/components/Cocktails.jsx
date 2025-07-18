@@ -7,6 +7,12 @@ const Cocktails = () => {
     const parallaxTimeline = gsap.timeline({
       scrollTrigger: {
 
+
+
+
+
+        
+
         trigger: "#cocktails",
 
         start: "top 30%",
