@@ -10,7 +10,6 @@ const Cocktails = () => {
 
 
 
-
         
 
         trigger: "#cocktails",
