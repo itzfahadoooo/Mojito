@@ -8,6 +8,7 @@ const Cocktails = () => {
       scrollTrigger: {
 
         trigger: "#cocktails",
+
         
 
         start: "top 30%",
