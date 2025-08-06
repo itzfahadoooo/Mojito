@@ -13,6 +13,7 @@ const Cocktails = () => {
 
       },
       
+      
     });
 
     parallaxTimeline
