@@ -11,7 +11,6 @@ const Cocktails = () => {
         end: "bottom 80%",
         scrub: true,   
 
-
         
       },
       
