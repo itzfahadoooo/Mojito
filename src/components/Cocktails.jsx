@@ -4,6 +4,7 @@ import { cocktailLists, mockTailLists } from "../../constants/index.js";
 
 const Cocktails = () => {
   useGSAP(() => {
+    
     const parallaxTimeline = gsap.timeline({
       scrollTrigger: {
         trigger: "#cocktails",
