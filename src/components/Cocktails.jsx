@@ -10,6 +10,7 @@ const Cocktails = () => {
         trigger: "#cocktails",
         start: "top 30%",
         end: "bottom 80%",
+
         
         scrub: true,   
       },
